@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import tweepy, urllib2, random, pickle
+import tweepy, urllib2, random
 from bs4 import BeautifulSoup
 
 try:
