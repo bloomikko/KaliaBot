@@ -53,7 +53,6 @@ try:
 			else:
 				tweet = tweet + beerNames[beerPage] + ": " + completePrice + "/" + priceForOneCan + " euroa\n"
 			tweet = tweet.replace('.', ',')	
-			print(tweet)
 			beerPage += 1
 
 		api.update_status(tweet)
