@@ -1,7 +1,7 @@
 # KaliaBot
 Twitter bot for getting the prices for cheap lager beers in Prisma (hypermarket franchise in Finland). The prices of beer fluctuate A LOT in these stores, so this delivers them daily for our pleasure! This bot was born almost immediatelly after the birth of GambinaBot, and this is my fourth bot. 🍻
 
-Currently not working as Foodie has apparently changed their source code.
+**Unfortunately not working as Foodie does not exist anymore.**
 
 # Features
   - Gets five beer brands from Foodie (the price site for S-Ryhmä's stores)
